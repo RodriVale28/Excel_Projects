@@ -22,7 +22,7 @@ An analysis of income trends by gender and education level. Includes breakdowns 
 - Gender income gap analysis
 
 
-## ✅ What This Repo Shows
+## ✅ Skills Demonstrated
 - Ability to **analyze real-world data** using Excel
 - Skills in building **clear and interactive dashboards**
 - Strong understanding of **data storytelling**
