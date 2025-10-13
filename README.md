@@ -10,7 +10,7 @@ This repository showcases my ability to analyze real-world data, build basic das
 
 ## 📁 Projects
 
-### 1. **📈 Income by Education and Gender Dashboard** https://github.com/RodriVale28/Excel_Projects/blob/main/Icome%20by%20Education%20and%20Gender%20DashBoard.xlsx
+### 1. [**📈 Income by Education and Gender Dashboard**] (https://github.com/RodriVale28/Excel_Projects/blob/main/Icome%20by%20Education%20and%20Gender%20DashBoard.xlsx)
 **Description:**  
 An analysis of income trends by gender and education level. Includes breakdowns by degree type, historical trends, and gender income disparities.
 
@@ -30,5 +30,6 @@ An analysis of income trends by gender and education level. Includes breakdowns 
 
 ## 📬 Contact
  **Email:** valeria.rodriguezhern28@gmail.com
+ 
  **GitHub:** https://github.com/RodriVale28
 
