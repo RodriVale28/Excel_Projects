@@ -32,6 +32,28 @@ An analysis of income trends by gender and education level. Includes breakdowns 
 - Practical use of Excel functions
 
 
+### 2. [Car Insurance Claims for East Coast and MidWest States](https://github.com/RodriVale28/Excel_Projects/tree/main/Car%20Insurance)
+**Description:**  
+A visualization of [auto insurance claims](https://github.com/RodriVale28/Auto_Claims-Project) in 2015 of states in two regions of the USA. Includes analysis by state, severity, and type.
+
+**Data Source:** This project uses data made available by [Auto Insurance Claims Data on Kaggle](https://www.kaggle.com/datasets/buntyshah/auto-insurance-claims-data).
+
+
+
+**Skills Highlighted:**
+- Dashboard Design
+- KPI creation and interpretation
+- Use of layout, formatting, and color theory for clarity
+- Auto Insurance claims analysis by state
+
+
+## ✅ Skills Demonstrated
+- Data **aggregation** for KPIs using Excel
+- Skills in using multiple chart types such as **maps, bar chart, and pie chart**
+- Categorization of claims by **type** and **severity**
+- Recognizing fraud prone states
+
+
 ## 📬 Contact
  **Email:** valeria.rodriguezhern28@gmail.com
  
